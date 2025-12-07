@@ -1,0 +1,2 @@
+.env
+GEMINI_API_KEY=AIzaSyCa0QovJbYdhAZylHQxc_43yMI21SK1k-s
