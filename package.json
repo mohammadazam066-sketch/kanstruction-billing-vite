@@ -1,7 +1,40 @@
 {
   "dependencies": {
     "@dataconnect/generated": "file:src/dataconnect-generated",
+    "firebase": "^12.6.0",
     "firebase-admin": "^13.5.0",
-    "firebase-functions": "^6.4.0"
+    "firebase-functions": "^6.4.0",
+    "react": "^19.2.1",
+    "react-dom": "^19.2.1"
+  },
+  "name": "kanstructionbilling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "eslint.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "vite build",
+    "dev": "vite",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohammadazam066-sketch/kanstruction-billing-vite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mohammadazam066-sketch/kanstruction-billing-vite/issues"
+  },
+  "homepage": "https://github.com/mohammadazam066-sketch/kanstruction-billing-vite#readme",
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.1.1",
+    "autoprefixer": "^10.4.22",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.17",
+    "typescript": "^5.9.3",
+    "vite": "^7.2.6"
   }
 }
